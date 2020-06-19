@@ -235,9 +235,6 @@ function CONTROL(event) {
 	} else if (event.key === "ArrowDown") {
 		p.moveDown();
 	}
-	// } else if (key === 32) {
-	// 	p.moveToEnd();
-	// }
 }
 
 
